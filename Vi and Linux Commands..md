@@ -1,35 +1,36 @@
-<h>
-  Vi and Linux commands
-<h/>
+# Vi and Linux commands
 
-  #### cd
+
+## cd
+This command is used to change the current working directory, which is the directory that the user is currently working in. Each time a user interacts with the command prompt, he or she is working within a directory; thus, cd is one of the most basic and frequently used Linux commands. When used without an argument, cd takes the user to the home directory. When used with an argument, such "Downloads," cd will change the directory to the one provided. Please see the example below:
+
+
+  
+## makedir
   
   
-  #### makedir
+## cp
   
   
-  #### cp
+## pwd
   
   
-  #### pwd
+## mv
   
   
-  #### mv
+## rm
   
   
-  #### rm
+## history
   
   
-  #### history
+## Home directory and ~
   
   
-  #### Home directory and ~
+## file paths in linux
   
   
-  #### file paths in linux
+## Using the tab key to complete file paths
   
   
-  #### Using the tab key to complete file paths
-  
-  
-  #### Using up and down arrow for history
+## Using up and down arrow for history
