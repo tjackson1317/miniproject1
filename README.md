@@ -1,2 +1,3 @@
-## Repository
-A repository is like a folder or storage space for a GIT project. A project's repository contains all of its files, such as code, documentation, images, and more. It also tracks every change that a developer (or his/her collaborators) make to each file, so the developer can always go back to previous versions of the project to fix any mistakes. In summary, a repository is a collection of commits, branches, and tags to identify commits.
+## Member names
+
+Taylor Jackson and Harpartap Singh
