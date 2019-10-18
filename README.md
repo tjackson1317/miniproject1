@@ -1,3 +1,3 @@
 ## Member names
 
-Taylor Jackson and Harpartap Singh
+Taylor Jackson and Harpartap Singh.
