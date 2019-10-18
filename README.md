@@ -8,3 +8,7 @@ Taylor Jackson and Harpartap Singh.
 2. <a href="https://github.com/tjackson1317/miniproject1-IS117101/blob/master/Vi%20and%20Linux%20Commands..md">Vi and Linux Commands</a>
 
 3. <a href="https://github.com/tjackson1317/miniproject1-IS117101/blob/master/GitFlow%20and%20Git%20Terminology">GitFlow and Git Terminology</a>
+
+## Changelog
+
+## Sources
