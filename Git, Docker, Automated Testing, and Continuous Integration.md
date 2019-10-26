@@ -9,3 +9,7 @@ Docker delivers immediate value to companies by reducing the infrastructure and 
 
 ## Automated Testing
 Automated testing helps companies maintain continuous quality throughout new iterations of software. It reduces testing time because less testing is needed at the UI level. It allows for faster, more comprehensive testing to improve the quality and speed of testing. QA automation cuts costs, radically reduces the time to market, optimizes development workflows, and dramatically improves the end-product quality.
+
+## Continuous Integration
+Continuous integration speeds up and automates the software delivery cycle. On the development side, it allows for reduced errors and manual tasks, early identification and resolution of integration challenges, shorter delivery cycles. Beyond development, it provides reliable, high-performing releases to drive business growth, reduced costs from fewer outages, and faster delivery to market for competitive advantage in the marketplace. 
+
