@@ -14,7 +14,7 @@
       -**i(interactive)** In this options
  
  ## pwd 
- Pwd stands for Print Working Directory. Starting from the root, it prints the full path of the current working directory. The command has two flags:
+ Pwd stands for print working directory. Starting from the root, it prints the full path of the current working directory. The command has two flags:
 
 Pwd -L prints the symbolic path.
 Pwd -P prints the actual path (avoiding symlinks).
