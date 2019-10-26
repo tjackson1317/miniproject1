@@ -17,4 +17,6 @@ A repository is like a folder or storage space for a GIT project. A project's re
 ## Clone
 A clone is a copy of a repository that does not live on a website's server, but rather on a computer. The term can also be used as a verb to mean the act of making that copy. Clones can be useful when a developer wants to edit files in his/her preferred editor (without having to be online), but still wants to use Git to keep track of the changes. The clone is still connected to the remote version, so changes are synced between the two.
 
+## Fork
+A fork is a copy of a repository. It allows a user to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to another user’s project, or to use another user’s project as a starting point for a new project. One example of using forks to propose changes is for bug fixes. Simply fork the repository, make the fix, then submit a pull request to the project owner.
 
