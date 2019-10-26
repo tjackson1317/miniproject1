@@ -24,3 +24,7 @@ The mv command is used to move files or directories from one place to another. T
 
 ## rm
 rm, which stands for “remove here,” is used to remove objects from the file system. More specifically, it removes references to objects, such as files, directories, symbolic links, etc., from the file system (although by default it does not remove directories). This can be helpful when objects might have multiple references, such as a file with two different names. However, the command should be used with caution since you are not able to recover the contents of a file once deleted.
+
+## History
+The history command shows all of the last commands that have been recently used. By default, it shows the last five hundred commands entered. The up arrow and down arrow can be used to browse for a particular recent command.
+
