@@ -1,1 +1,5 @@
+# Git, Docker, Automated Testing, and Continuous Integration
+Read below to learn how these tools improve the productivity and competitiveness of a company.
 
+## Git
+Git is the go-to version control solution for most companies, designed with performance, security, and flexibility in mind. It is ideal for development and collaboration across teams, allowing team members to each contribute to a larger project in an organized, distributed manner and ensuring that each team member is held accountable for his or her work through commit tracking. This improved development workflow impacts the success of the entire business. With a faster release cycle, marketers can increase their promotions and product managers can have more frequent customer feedback and responsive updates. Companies that use Git also provide their designers with rapid prototyping, customer support with faster bug fixes, human resources with forward-looking developers, and budget managers with more efficient (and less costly) operations. Git magnifies all business activities by ensuring that every department is doing their job more efficiently.
