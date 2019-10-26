@@ -19,3 +19,5 @@
 Pwd -L prints the symbolic path.
 Pwd -P prints the actual path (avoiding symlinks).
 
+## mv
+The mv command is used to move files or directories from one place to another. The command supports moving single files and multiple files. For added convenience, it can prompt before overwriting and also has the option to only move files that are new to the destination. The mv command is also used to rename files. To use the command, pass the name of the file or directory followed by the destination.
