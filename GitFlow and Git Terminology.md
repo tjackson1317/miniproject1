@@ -20,3 +20,6 @@ A clone is a copy of a repository that does not live on a website's server, but 
 ## Fork
 A fork is a copy of a repository. It allows a user to freely experiment with changes without affecting the original project. Most commonly, forks are used to either propose changes to another user’s project, or to use another user’s project as a starting point for a new project. One example of using forks to propose changes is for bug fixes. Simply fork the repository, make the fix, then submit a pull request to the project owner.
 
+## Branch
+A branch is a parallel version of a repository. In other words, it is contained within the repository, but does not affect the master branch. This allows a developer to work freely without disrupting the live version of the repository. Once the desired change are made, a branch can be merged back into the master branch, which publishes the changes.
+
