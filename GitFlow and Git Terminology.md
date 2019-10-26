@@ -1,27 +1,13 @@
 # GitFlow and Git Terminology
 
 ## About GitFlow 
+The Gitflow workflow is a branching model for Git that provides a robust framework for managing larger projects. It is ideal for collaboration and scaling a development team. Its unique features, including parallel development that isolates new development from finished work (feature branches), release staging area (develop branch), and support for emergency fixes (hotfix branches) make it great for a release-based software workflow. Gitflow gives each of these branches very specific roles and defines exactly how and when they should interact.
 
-## Repository
+First, new development, which includes new features and non-emergency bug fixes, are built in feature branches. These feature branches are branched off of the develop branch; then, once finished and ready for release, features and fixes are merged back into the develop branch. In other words, the develop branch serves as an integration branch for features.
 
-## Clone
+When the time comes to make a release, a release branch is created off of the develop branch. The code in that release branch is deployed onto a test environment, where a cycle of deploy, test, fix, redeploy, and retest continues until the release is finished and ready for customers.
 
-## Fork
+At this point, the release branch is merged into both the master and develop branches in order to ensure that any changes made in the release branch are not accidentally lost by new development. The master branch is used to track released code only; thus, the only commits to master are merges from release branches and hotfix branches. It is convenient to tag all commits in the master branch with a version number.
 
-## Branch
+Used to create emergency fixes, hotfix branches are branched directly from a tagged release in the master branch. Like previously discussed with the release branch, hotfix branches are also merged into both the master and develop branches to prevent any unintentional loss of the fixes when the next regular release occurs. 
 
-## Commit
-
-## Merge
-
-## Checkout
-
-## Push
-
-## Pull
-
-## Remote Add/Remove/Show
-
-## Status
-
-## Master Branch
