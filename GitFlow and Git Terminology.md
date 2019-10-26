@@ -11,3 +11,6 @@ At this point, the release branch is merged into both the master and develop bra
 
 Used to create emergency fixes, hotfix branches are branched directly from a tagged release in the master branch. Like previously discussed with the release branch, hotfix branches are also merged into both the master and develop branches to prevent any unintentional loss of the fixes when the next regular release occurs. 
 
+## Repository
+A repository is like a folder or storage space for a GIT project. A project's repository contains all of its files, such as code, documentation, images, and more. It also tracks every change that a developer (or his/her collaborators) make to each file, so the developer can always go back to previous versions of the project to fix any mistakes. In summary, a repository is a collection of commits, branches, and tags to identify commits.
+
