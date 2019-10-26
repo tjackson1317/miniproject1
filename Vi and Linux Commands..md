@@ -28,3 +28,5 @@ rm, which stands for “remove here,” is used to remove objects from the file 
 ## History
 The history command shows all of the last commands that have been recently used. By default, it shows the last five hundred commands entered. The up arrow and down arrow can be used to browse for a particular recent command.
 
+## Home Directory and ~
+A standard subdirectory of the root directory, the home directory serves as the repository for a user’s personal files, directories, and programs. It is the first directory a user is in after logging into the system. The tilde (~) represents the user’s home directory; thus, a user could return to the home directory by using the tilde as an argument to cd (cd ~).
