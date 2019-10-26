@@ -1,11 +1,16 @@
 # Vi and Linux commands
 
+## About Vi
+Vi (visual editor) is the default editor used with Linux. It has two main modes of operation:
+
+1. Command mode: causes action to be taken on a file (takes user commands)
+1. Insert mode: entered text is inserted into the file (edits text)
+
+Vi is perfect for both creating scripts and editing files.
 
 ## cd
   This command is used to change the current working directory, which is the directory that the user is currently working in. Each time a user interacts with the command prompt, he or she is working within a directory; thus, cd is one of the most basic and frequently used Linux commands. When used without an argument, cd takes the user to the home directory. When used with an argument, such "Downloads," cd will change the directory to the one provided. Please see the example below:
 
-
-  
 ## mkdir
   it allows the user to created directories in Linux. This command can also make multiple directiories. We use the command mkdir [directory name] to make directories , if multiple directories have to be made we have a space between the directory names mkdir [name1] [name2]
 ## cp
