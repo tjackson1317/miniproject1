@@ -12,28 +12,10 @@
   cp stands for copy in linux. This command is used to copy files or a grouop or a directory.it requires two filenames in its arguments. If a command has 2 files names, then it copies the contents of first file into another. If it doesnt exist, it creates one and all the content is copied in that 
       *Various options*
       -**i(interactive)** In this options
-  
-  
-  
-## pwd
-  
-  
-## mv
-  
-  
-## rm
-  
-  
-## history
-  
-  
-## Home directory and ~
-  
-  
-## file paths in linux
-  
-  
-## Using the tab key to complete file paths
-  
-  
-## Using up and down arrow for history
+ 
+ ## pwd 
+ Pwd stands for Print Working Directory. Starting from the root, it prints the full path of the current working directory. The command has two flags:
+
+Pwd -L prints the symbolic path.
+Pwd -P prints the actual path (avoiding symlinks).
+
