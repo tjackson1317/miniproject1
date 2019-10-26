@@ -21,3 +21,6 @@ Pwd -P prints the actual path (avoiding symlinks).
 
 ## mv
 The mv command is used to move files or directories from one place to another. The command supports moving single files and multiple files. For added convenience, it can prompt before overwriting and also has the option to only move files that are new to the destination. The mv command is also used to rename files. To use the command, pass the name of the file or directory followed by the destination.
+
+## rm
+rm, which stands for “remove here,” is used to remove objects from the file system. More specifically, it removes references to objects, such as files, directories, symbolic links, etc., from the file system (although by default it does not remove directories). This can be helpful when objects might have multiple references, such as a file with two different names. However, the command should be used with caution since you are not able to recover the contents of a file once deleted.
