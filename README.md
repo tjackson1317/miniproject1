@@ -60,12 +60,12 @@ Features by Taylor Jackson:
 
 Features by Harpartap Singh:
 1. Defined mkdir.
-1. Added first part of cp definition.
 
 #### Tasks
 Tasks by Taylor Jackson:
 1. Created headers.
 1. Added index.
+1. Added link to index.
 
 Tasks by Harpartap Singh:
 1. Added names of members.
