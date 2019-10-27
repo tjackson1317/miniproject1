@@ -45,11 +45,15 @@ Taylor Jackson and Harpartap Singh.
 Tasks by Taylor Jackson:
 1. Added additional sources.
 
+Tasks by Harpartap Singh:
+1. Added images.
+
 #### Fixes
 Fixes by Taylor Jackson:
 1. Edited changelog.
 1. Updated gitflow terms.
 1. Fixed cd definition.
+1. Updated changelog.
 
 ### [0.0.1] - 10-18-2019
 #### Features
