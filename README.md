@@ -84,5 +84,17 @@ Fixes by Harpartap Singh:
 
 The webpages and everything else has been a collective effort.
 
-## Sources
+## Additional Sources
+For Git:
+* https://www.codecademy.com/learn/learn-git
+* https://www.atlassian.com/git/tutorials
+* https://git-scm.com/docs/gittutorial
 
+For Linux:
+* https://www.linux.org/forums/linux-beginner-tutorials.123/
+* https://linuxjourney.com/
+
+For Vi:
+* https://ryanstutorials.net/linuxtutorial/vi.php
+* https://www.tutorialspoint.com/unix/unix-vi-editor.htm
+* https://www.washington.edu/computing/unix/vi.html
