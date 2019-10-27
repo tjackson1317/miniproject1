@@ -10,29 +10,79 @@ Taylor Jackson and Harpartap Singh.
 3. <a href="https://github.com/tjackson1317/miniproject1-IS117101/blob/master/GitFlow%20and%20Git%20Terminology.md">GitFlow and Git Terminology</a>
 
 ## Changelog
-  ## Work Done 
+### [0.0.2] - 10-26-2019
+#### Features 
   Features by Taylor Jackson:
-          1)Added continutous integration summary benefits
-          2)added intro and Git summary
-          3)added intro and git summary
-          4)Defined repository
-          5)defined clone
-          6)defined fork
-          7)defined branch
-          8)explained gitflow workflow
-          9)defined cd,mkdir,cp,pwd
-          10)defined history,homedirectory and ~
+  1. Added continutous integration summary of benefits.
+  1. Added automated testing summary of benefits.
+  1. Added Docker summary of benefits.
+  1. Added intro and Git summary of benefits.
+  1. Defined fork.
+  1. Defined branch.
+  1. Added About Gitflow section (explained Gitflow workflow).
+  1. Defined cd.
+  1. Defined pwd.
+  1. Defined history.
+  1. Defined homedirectory and ~.
+  1. Added Vi definition.
+  
   Features by Harpartap Singh:
-          1)defined commit
-          2)defined merge
-          3)defined checkout
-          4)defined push
-          5)defined pull
-          6)defined remote add/remove/show
-          7)defined status
-          8)defined Master Branch
-          9)defined file paths and linux
-          10)defined Using the tab key to complete file paths
-          11)using up and down arrow for history
-  The webpages and everything else has been a collective effort
+  1. Defined commit.
+  1. Defined merge.
+  1. Defined checkout.
+  1. Defined push.
+  1. Defined pull.
+  1. Defined remote add/remove/show.
+  1. Defined status.
+  1. Defined Master Branch.
+  1. Defined cp.
+  1. Defined file paths and Linux.
+  1. Defined using the tab key to complete file paths.
+  1. Explained using the up and down arrow for history.
+  1. Created changelog.
+  
+#### Tasks
+Tasks by Taylor Jackson:
+1. Added additional sources.
+
+#### Fixes
+Fixes by Taylor Jackson:
+1. Edited changelog.
+1. Updated gitflow terms.
+1. Fixed cd definition.
+
+### [0.0.1] - 10-18-2019
+#### Features
+Features by Taylor Jackson:
+1. Defined cd.
+1. Defined repository.
+1. Defined clone.
+
+Features by Harpartap Singh:
+1. Defined mkdir.
+1. Added first part of cp definition.
+
+#### Tasks
+Tasks by Taylor Jackson:
+1. Created headers.
+1. Added index.
+
+Tasks by Harpartap Singh:
+1. Added names of members.
+1. Added links to index.
+
+#### Fixes
+Fixes by Taylor Jackson: 
+1. Fixed links.
+1. Updated headers.
+1. Changed file name to md.
+
+Fixes by Harpartap Singh:
+1. Corrected links.
+1. Fixed a header.
+1. Changed file names to md.
+
+The webpages and everything else has been a collective effort.
+
 ## Sources
+
