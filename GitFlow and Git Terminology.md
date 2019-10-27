@@ -29,6 +29,7 @@ git commit -m “[ Type in the commit message]”
 git commit -a  
 This command commits any files you’ve added with the git add command and also commits any files you’ve changed since then.
 
+<img src= "https://www.earthdatascience.org/images/workshops/version-control/git-checkout.png" alt= add,commit and checkiut> 
 ## Merge:
 git merge [branch name]  
 This command merges the specified branch’s history into the current branch.
@@ -47,7 +48,7 @@ Usage: git push –all [variable name]
 This command pushes all branches to your remote repository.
 Usage: git push [variable name] :[branch name]  
 This command deletes a branch on your remote repository.
-
+<img src="https://d186loudes4jlv.cloudfront.net/git/images/git_push.jpg>
 ## Pull
 Usage: git pull [Repository Link]  
 This command fetches and merges changes on the remote server to your working directory.
@@ -69,3 +70,4 @@ This command lists all the files that have to be committed.
 
 ## Master Branch
 A branch in Git is simply a lightweight movable pointer to one of these commits. The default branch name in Git is master. As you start making commits, you’re given a master branch that points to the last commit you made. Every time you commit, the master branch pointer moves forward automatically.
+<img src="https://i.stack.imgur.com/F00b8.png alt="Master Branch">
