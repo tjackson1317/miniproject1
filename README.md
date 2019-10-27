@@ -10,5 +10,5 @@ Taylor Jackson and Harpartap Singh.
 3. <a href="https://github.com/tjackson1317/miniproject1-IS117101/blob/master/GitFlow%20and%20Git%20Terminology.md">GitFlow and Git Terminology</a>
 
 ## Changelog
-
+  <a href="https://github.com/tjackson1317/miniproject1-IS117101/new/master.md" </a>
 ## Sources
