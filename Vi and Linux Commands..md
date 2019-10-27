@@ -11,6 +11,8 @@ Vi is perfect for both creating scripts and editing files.
 ## cd
   This command is used to change the current working directory, which is the directory that the user is currently working in. Each time a user interacts with the command prompt, he or she is working within a directory; thus, cd is one of the most basic and frequently used Linux commands. When used without an argument, cd takes the user to the home directory. When used with an argument, such "Downloads," cd will change the directory to the one provided. 
 
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-12-20-10-56-04-1.png" >
+
 ## mkdir
   it allows the user to created directories in Linux. This command can also make multiple directiories. We use the command mkdir [directory name] to make directories , if multiple directories have to be made we have a space between the directory names mkdir [name1] [name2]
 ## cp
@@ -24,6 +26,8 @@ Vi is perfect for both creating scripts and editing files.
 Pwd -L prints the symbolic path.
 Pwd -P prints the actual path (avoiding symlinks).
 
+<img src ="https://media.geeksforgeeks.org/wp-content/uploads/built-inPwd-1.png">
+
 ## mv
 The mv command is used to move files or directories from one place to another. The command supports moving single files and multiple files. For added convenience, it can prompt before overwriting and also has the option to only move files that are new to the destination. The mv command is also used to rename files. To use the command, pass the name of the file or directory followed by the destination.
 
@@ -32,6 +36,8 @@ rm, which stands for “remove here,” is used to remove objects from the file 
 
 ## History
 The history command shows all of the last commands that have been recently used. By default, it shows the last five hundred commands entered. The up arrow and down arrow can be used to browse for a particular recent command.
+
+<img src= "https://geek-university.com/wp-content/images/linux/history_command1.jpg?x67341" >
 
 ## Home Directory and ~
 A standard subdirectory of the root directory, the home directory serves as the repository for a user’s personal files, directories, and programs. It is the first directory a user is in after logging into the system. The tilde (~) represents the user’s home directory; thus, a user could return to the home directory by using the tilde as an argument to cd (cd ~).
@@ -42,6 +48,8 @@ A file path is the human-readable representation of a file or folder’s locatio
 file paths are part of a useful framework for understanding how computers work, and learning to think of files in a path can be useful if you’re looking to become a developer (you need to understand the paths to support libraries), a web designer (file paths ensure you’re pointing your HTML to the appropriate CSS), a system administrator, or just a power user.
 Start at the root directory ( / ) and work down.
 Write a slash ( / ) after every directory name)
+<img src= "https://www.tecmint.com/wp-content/uploads/2013/09/Linux-Directory-Structure.jpeg" alt= "important paths"> 
+
 ## Using the tab key to complete file paths
 Tab completion is an extremely helpful feature in nearly any command-line environment, whether you’re using the Bash shell on Linux, Command Prompt or PowerShell on Windows, or a terminal window on Mac OS X.
 This feature can dramatically help you speed up typing commands. Just hit Tab while typing a command, option, or file name and the shell environment will automatically complete what you’re typing or suggest options to you.
